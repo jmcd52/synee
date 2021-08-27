@@ -1,0 +1,15 @@
+#SyneeRobots
+#Allow Google to crawl
+User-agent: googlebot
+Allow: /
+
+#block Google Images from directory
+User-agent: googlebot-image
+Disallow: /images/icons
+
+# Block the entire site from other crawlers.
+User-agent: *
+Disallow: /
+
+#sitemap here
+Sitemap: https://synee.co.uk/sitemap.txt

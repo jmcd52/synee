@@ -1,0 +1,42 @@
+[30-Nov-2018 16:05:26 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:05:36 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:05:36 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:05:40 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:05:59 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:06:49 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:06:50 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:06:55 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:07:26 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:10:12 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:10:16 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:10:31 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:10:32 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:10:41 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 429
+[30-Nov-2018 16:20:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 428
+[30-Nov-2018 16:20:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 428
+[30-Nov-2018 16:21:31 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mcdonaldct5006/public_html/week8/includes/class.functions.php on line 428
+[14-Dec-2018 13:54:13 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 71
+[14-Dec-2018 13:54:34 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 71
+[14-Dec-2018 13:54:34 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 71
+[14-Dec-2018 13:54:35 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 71
+[14-Dec-2018 13:54:35 UTC] PHP Parse error:  syntax error, unexpected '(' in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 71
+[14-Dec-2018 15:32:46 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:47:32 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:48:14 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:48:23 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:49:33 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:52:39 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 15:54:13 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 16:16:04 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 16:16:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 143
+[14-Dec-2018 16:16:09 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/mcdonaldct5006/public_html/s1707679_portfolio/index.php on line 143
+[14-Dec-2018 16:20:07 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[14-Dec-2018 16:20:24 Europe/London] PHP Fatal error:  Call to a member function fetch() on null in /home/mcdonaldct5006/public_html/s1707679_portfolio/search.php on line 54
+[16-Dec-2018 21:09:01 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:10 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:14 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:17 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:38 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:39 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386
+[16-Dec-2018 21:09:42 UTC] PHP Parse error:  syntax error, unexpected '<', expecting variable (T_VARIABLE) or '$' in /home/mcdonaldct5006/public_html/s1707679_portfolio/includes/class.functions.php on line 386

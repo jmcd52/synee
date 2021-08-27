@@ -1,0 +1,58 @@
+/*html, body {
+  height: 100%;
+}*/
+
+
+body {
+  padding-top: 54px;
+  display: flex;
+  flex-direction: column;
+  font-family: urw-din, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.bg-dark{background: linear-gradient(90deg, #151515, #404040, #151515);}
+/*.bg-dark{background-color: #282828!important;}*/
+
+#logoText{
+	font-family: poppins, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+	color: white;
+}
+
+#navContact{float: right;}
+#navContact h2{color: white;}
+#navContact h3{color: #007bff;}
+#numArrow{
+	float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#myCarousel{margin-bottom: 40px;}
+
+section{padding-left: 5%; padding-right: 5%;}
+.col-md h2 {color: orangered;}
+.divImg{margin-top: 20px; margin-bottom: 20px;}
+
+#footContact{margin: auto;}
+
+footer{
+	margin-top:30px;
+	/*clear:both;
+	flex-shrink: 0;*/
+}
+/* footer{position: fixed; bottom: 0; width: 100%;} */
+#contactLink{color:white; padding-left: 20%; padding-right: 20%; padding-bottom: 3%; padding-top: 3%;}
+
+
+/*
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}*/
